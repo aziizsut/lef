@@ -1,0 +1,56 @@
+THE DUTCH PV PORTAL 2.0 PV SYSTEM DESIGN RESULTS 
+The values in this document were calculated after input of the system characteristics chosen by the website visitor and the local weather/climate of the chosen location as stored in the PVP 2.0 database.
+For more information look at the 'Background info' section on www.tudelft.nl/pvp2
+Scroll to the bottom of the document for the daily system performance values.
+
+SYSTEM CHARACTERISTICS:
+System location:  Bleiswijk Netherlands
+KNMI weather station data location: Rotterdam
+Number of modules: 1
+Module technology: Monocrystalline silicon (medium-efficiency)
+Module power capacity [Wp]: 299.59
+Module surface area [m^2]: 1.64
+Module efficiency under Standard Test Conditions [%]: 18.3
+Installed capacity [Wp]: 299.594
+Module tilt [degrees]: 37
+Module azimuth [degrees]: 180
+Rooftop area [m^2]: 1.64
+
+ANNUAL PRODUCTION:
+System energy production [Wh]: 270159.46
+Module energy output [Wh]: 270159.46
+DC energy yield [kWh/kWp]: 975.87
+AC energy yield [kWh/kWp]: 901.75
+DC performance ratio [%]: 81.4
+AC performance ratio [%]: 75.3
+Annual average system efficiency [%]: 13.78
+Annual average inverter efficiency [%]: 92
+Hours of peak sunshine: 1198.27
+
+DAILY PRODUCTION:
+System energy production [Wh]: 643
+Module energy output [Wh]: 643
+DC energy yield [kWh/kWp]: 2.32
+AC energy yield [kWh/kWp]: 2.15
+DC performance ratio [%]: 84.8
+AC performance ratio [%]: 78.4
+Daily average system efficiency [%]: 14.35
+Daily average inverter efficiency [%]: 92
+Hours of peak sunshine: 2.74
+
+ECONOMICS:
+Initial investment [Euro]: 437
+Operation and maintenance over system lifetime [Euro]: 129
+Total revenue over system lifetime [Euro]: 1660
+Total profit over system lifetime [Euro]: 1095
+Payback period (PBP) [years]: 9
+Compound annual growth rate (CAGR) of investment [%]: 4.4
+Return on investment (ROI) [%]: 193.68
+Net present value (NPV) at 3% discount rate [Euro]: 591
+Discounted payback period (DPBP) at 3% discount rate [years]: 10
+Levelized cost of electricity (LCoE) at 3% discount rate [Euro/kWh]: 0.09
+Net present value (NPV) at 7% discount rate [Euro]: 222
+Discounted payback period (DPBP) at 7% discount rate [years]: 14
+Levelized cost of electricity (LCoE) at 7% discount rate [Euro/kWh]: 0.08
+
+ANNUAL POWER PRODUCTION
