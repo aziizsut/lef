@@ -61,6 +61,8 @@ return(calc_bills)
 }
 
 
+# calculation -------------------------------------------------------------
+
 lemkes2019 <- f_calc_bill(rset_lemkes_2019)
 
 lemkes2019 %>% mutate(price_kw = totalkw / Import) %>% 
